@@ -1,0 +1,132 @@
+.header{
+    background-color: #1F2937;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 100px;
+    padding-top: 40px;
+}
+
+.top{
+    padding: 30px;
+    background-color: #1F2937;
+    display: flex;  
+    gap: 100px;
+    justify-content: center;
+}
+
+.chads{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin-bottom: 100px;
+}
+
+.chads .text{
+    text-align: center;
+}
+
+.byline{
+    font-weight: bold;
+    text-align: right;
+    display: flex;
+    justify-content: flex-end;
+    padding: 10px 100px;
+}
+
+.quote{
+    background-color: #E5E7EB;
+    font-size: 36px;
+    color: #1F2937;
+    padding: 50px 200px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+
+.join{
+    display: flex;
+    padding: 70px 300px;
+    justify-content: center;
+}
+
+.product{
+    background-color: #3882f6;
+    border-radius: 10px;
+    color: white;
+    padding: 25px 100px;
+    flex: 1;
+    display: flex;
+    justify-content: space-between;
+}
+
+.product button{    
+    align-self: center;
+    border: 2px solid white;
+}
+
+.heading{
+    font-weight: bolder;
+    font-size: 24px;
+    margin-bottom: -10px;
+}
+
+.footer{
+    background-color: #1F2937;
+    color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 25px;
+}
+
+ul{
+    list-style-type: none;
+    gap: 20px;
+    display: flex;
+}
+
+li{
+    font-size: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: #F9FAF8;
+}
+
+h1{
+    font-weight: bolder;
+    font-size: 48px;
+    color: #F9FAF8;
+}
+
+.top p{
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+button{
+    color: white;
+    background-color: #3882f6;
+    border-radius: 5px;
+    padding: 5px 20px;
+    border: none;
+}
+
+h2{
+    text-align: center;
+    font-size: 36px;
+    color: #1F2937;
+}
+
+
+
+.chads img{
+    border-radius: 10px;
+    border: 2px solid #3882f6;
+}
+
+body{
+    margin: 0 0;
+}
